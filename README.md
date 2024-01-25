@@ -1,2 +1,2 @@
 # App-dev-practice-projects
-All the projects used for practicing app development using Flutter
+This repo contains all the projects used for practicing app development using Flutter
