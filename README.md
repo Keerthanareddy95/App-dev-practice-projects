@@ -1,2 +1,2 @@
 # App-dev-practice-projects
-all the projects used for practicing app development
+All the projects used for practicing app development using Flutter
